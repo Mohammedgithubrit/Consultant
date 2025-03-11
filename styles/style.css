@@ -939,7 +939,7 @@ p, span, a, button {
         .test-img-con {
             flex-direction: row; 
             align-items: center;
-            margin-top: 30px; 
+            margin-top: 13px; 
         }
     }
 }
