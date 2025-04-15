@@ -4,7 +4,7 @@
     margin: 0;
     box-sizing: border-box;
 }
- html{
+ html body{
         scroll-behavior: smooth;
         overflow-x: hidden;
         width: 100%;
@@ -23,8 +23,9 @@ p, span, a, button {
 .h-container {
     display: flex;
     margin-top: 15px;
+    margin-left: 30px;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .menu-toggle {
